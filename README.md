@@ -54,3 +54,39 @@ New Haven, USA had the highest average sale amount, $4,674.83, of all the cities
 
 The USA has the highest sales total, $3,372,204.28, and the most orders of any country in the database accounting for more than a third of orders and total revenue generated. France has the second highest sales total, $1,067,131.83, and the second most orders accounting for 301 orders. Additionally, there is a direct correlation between the number of orders of a country and the total revenue, the higher the number of orders the higher the more revenue generated. 
 
+![Heat Map Dashboard Country Avg Sales ](https://user-images.githubusercontent.com/112409778/208949587-ac7ef9ab-de3c-4edd-9b77-a40c518b36eb.jpg)
+
+Sweden had the highest average sale amount, each sale averaging $3858.37. Sweden had the second highest sales average, $3797.21. Countries in Europe, the Middle East, and Africa accounted for more than half of the top ten countries with the highest sales averages in the dataset. 
+
+
+## Segmentation Analysis: Territory
+
+![Territory Heat Map Dashboard ](https://user-images.githubusercontent.com/112409778/208951441-0d1307b0-1a3f-4126-ab50-bcf4e674431b.jpg)
+
+Despite America accounting for more than a third of the total sales and revenue generated in the dataset, the EMEA territory had the highest total sales revenue totaling $4,552,272.71 more nearly half of the revenue generated in the dataset. North America had the second highest total in total sales totaling $3,596,282.84. Additionally, there was a positive correlation between the count of sales in each territory and the revenue generated, the higher the sale count, the higher the sale revenue. 
+
+![Territory Heat Map Average Sales ](https://user-images.githubusercontent.com/112409778/208951498-3d238b27-0754-494e-8815-57f267d2061a.jpg)
+
+
+Japan had the highest average sales out of all the territories, each sales was an average of $3761.76. North America had the second highest average sales, each sale was an average of $3,578.39
+
+## Segmentation Analysis: Dealsize
+
+![Total Sale MSRP Dealsize ](https://user-images.githubusercontent.com/112409778/208952158-f7940d6b-b612-4e67-ab8a-22296184cdae.jpg)
+
+Medium sized deals had the highest total MSRP totaling $157,984.52 in additional revenue above the recommended price. There was also a positive correlation between the number of sales and total revenue.
+
+
+![Average Sale MSRP Dealsize](https://user-images.githubusercontent.com/112409778/208952207-164d77c0-caa1-4856-9f6c-8d2a9e8c9b32.jpg)
+
+Majority of the orders shipped were considered to be medium sized deals, between the sale range $3,000 and $6,999.99, and had an average sale price of $3,550.44. Additionally, medium sized orders also accounted for the majority of the shipped orders revenue totaling $5,633,596.52 with an average sale of $4,408.13. However, on average large sized deals, more than $7,000 had the highest MSRP, averaging an additional $966.50 per sale. 
+
+![Sales Count Histogram](https://user-images.githubusercontent.com/112409778/208952360-0d20f539-4487-4f05-b6da-5a4b3ae0a9ff.jpg)
+
+The Average sale amount irregardless of city, state, and territory of the dataset is $3553.89 which makes the deal size medium. This is reflected in the right-skewed histogram. Large deal sizes are outliers, majority of the sales made with a status order of shipped were medium deal sizes. So, medium sized deals were the most profitable in the dataset. 
+
+
+
+
+
+
