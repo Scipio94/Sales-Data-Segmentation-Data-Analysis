@@ -6,6 +6,8 @@ Sales dataset found on Kaggle of what is presumed to be the sales data of a mult
 
 ***Access Dataset [HERE](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)***
 
+***Access Tableau Visual [HERE](https://public.tableau.com/views/SalesDataSegmentationViz/SalesDataSegmentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)***
+
 ## Objective
 
 The objective of this analysis is to identify trends in consumer segmentation based on the consumer location of all orders that have a status of shipped. 
