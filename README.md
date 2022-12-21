@@ -34,4 +34,23 @@ There are several variables that will affect the outcome of this analysis:
   - Disputed:There is a dispute regarding funds for the order
 - MSRP: Manufacturer Suggested Retail Price
 
+# Analysis 
+
+## Segmentation Analysis: City
+
+
+![City Heat Map Dashboard Total Sales ](https://user-images.githubusercontent.com/112409778/208795405-fb71e283-5a9f-4371-8fd8-7d772122015e.jpg)
+
+Madrid, Spain generated the highest total sales revenue with 258 sales totaling $911,769.83 and an average sale of $3,533.99, categorized as a medium sized deal. San Rafael, USA generated the second highest revenue with  178 sales totaling $647,596.31 and an average sale of $3638.18, categorized as a medium sized deal. 50% of the cities in the top ten in total sales were from the USA and North America.
+
+
+![City Heat Map Dashboard Avg Sales ](https://user-images.githubusercontent.com/112409778/208795270-d08b76be-0c4f-4991-833e-4887fbaf2a9b.jpg)
+
+New Haven, USA had the highest average sale amount, $4,674.83, of all the cities in the data set. Liverpool, UK had the second highest average sale amount, $4,506.67, of all the cities in the dataset. Both average sale amounts are categorized as medium sized deals. Half of the cities in the top ten average sales are from the USA and North America.
+
+### Segmentation Analysis: Country
+
+![Heat Map Dashboard Country Total Sales](https://user-images.githubusercontent.com/112409778/208795620-6a9dd802-e5b3-4227-87c8-c877b751aa58.jpg)
+
+The USA has the highest sales total, $3,372,204.28, and the most orders of any country in the database accounting for more than a third of orders and total revenue generated. France has the second highest sales total, $1,067,131.83, and the second most orders accounting for 301 orders. Additionally, there is a direct correlation between the number of orders of a country and the total revenue, the higher the number of orders the higher the more revenue generated. 
 
